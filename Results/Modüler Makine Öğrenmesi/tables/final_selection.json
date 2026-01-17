@@ -1,0 +1,11 @@
+{
+  "Model": "Model ALL",
+  "BestAlgorithm": "LightGBM",
+  "SMOTE": "YOK",
+  "CV_AUC_Mean": 0.8233667709625543,
+  "CV_AUC_Std": 0.046785719649077025,
+  "Test_AUC": 0.8379561314187752,
+  "Test_F1": 0.6016908212560387,
+  "CV_Test_Gap": 0.014589360456220946,
+  "tie_break_applied": true
+}
